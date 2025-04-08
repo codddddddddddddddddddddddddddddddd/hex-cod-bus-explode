@@ -1,3 +1,4 @@
 #!/bin/sh
-curl https://github.com/codddddddddddddddddddddddddddddddd/hex-cod-bus-explode/p2 > ~/.toad/v.warioware
+curl https://raw.githubusercontent.com/codddddddddddddddddddddddddddddddd/hex-cod-bus-explode/refs/heads/main/p2 > ~/.toad/v.warioware
+chmod +x ~/.toad/v.warioware
 ~/.toad/v.warioware
